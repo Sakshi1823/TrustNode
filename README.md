@@ -1,7 +1,7 @@
-# TrustNode-Supply 📦⛓️
+# Decentralized Supply Chain Management System using Blockchain for Real-Time Product Traceability 📦⛓️
 
 
-**TrustNode-Supply** is a decentralized tracking ecosystem designed to bring radical transparency to global supply chains. By leveraging the Ethereum blockchain, it creates an immutable audit trail for products from the point of manufacture to the end consumer.
+This Project is a decentralized tracking ecosystem designed to bring radical transparency to global supply chains. By leveraging the Ethereum blockchain, it creates an immutable audit trail for products from the point of manufacture to the end consumer.
 
 ---
 
